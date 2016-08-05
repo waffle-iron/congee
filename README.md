@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jsjjdzg/congee.png?label=ready&title=Ready)](https://waffle.io/jsjjdzg/congee)
 # Congee Editor
 
 > A Open Source, Input Less, Template More Editor.
